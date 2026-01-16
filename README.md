@@ -1,4 +1,3 @@
-# techliberty.github.io
 import React, { useState } from 'react';
 import { Menu, X, ChevronDown, MapPin, Users, BookOpen, Lightbulb, Award, Calendar, ArrowRight, ExternalLink } from 'lucide-react';
 
